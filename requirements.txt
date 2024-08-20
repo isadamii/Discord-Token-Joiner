@@ -1,0 +1,4 @@
+tls_client==0.2.1
+colorama
+requests
+fake_useragent
